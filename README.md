@@ -5,7 +5,7 @@ Diagrama da Máquina de Estados Finitos, definição de quais botões acionam as
 Link do diagrama e dos botões utilizados em cena: 
 https://drive.google.com/drive/folders/1G40o4pkzRuXvtLlyQB-9WmxunPs3mMBT?usp=drive_link
 
-Link da Gameplay no youtube:
+Link da Gameplay no youtube: https://youtu.be/HRgffEjlt6E
 
 
 Definação dos botões utlizados: Controles prova I.A:
